@@ -1,21 +1,21 @@
 ﻿No;JobTitle;Industry;RiskFactors;AverageSalary;Country
-1;Construction Worker;Construction;Falls, heavy machinery, hazardous materials;$40,000;USA
-2;Miner;Mining;Cave-ins, respiratory diseases, heavy equipment;$50,000;Australia
-3;Fisherman;Fishing;Drowning, harsh weather, heavy machinery;$35,000;Norway
-4;Logger;Forestry;Falling trees, chainsaw injuries, rough terrain;$45,000;Canada
-5;Electrician;Utilities;Electrocution, falls, burns;$55,000;UK
-6;Pilot;Aviation;High stress, crashes, long hours;$100,000;USA
-7;Roofer;Construction;Falls, heat exhaustion, heavy lifting;$38,000;Australia
-8;Truck Driver;Transportation;Traffic accidents, long hours, hazardous cargo;$48,000;USA
-9;Police Officer;Law Enforcement;Violence, high stress, exposure to dangerous situations;$60,000;Canada
-10;Firefighter;Emergency Services;Burns, smoke inhalation, structural collapses;$55,000;UK
-11;Offshore Oil Rig Worker;Oil & Gas;Explosions, fires, heavy machinery;$80,000;USA
-12;Steelworker;Manufacturing;Falls, burns, heavy machinery;$50,000;USA
-13;Bomb Disposal Technician;Military;Explosives, high stress, hazardous materials;$70,000;UK
-14;Stunt Performer;Entertainment;Physical injuries, high-risk stunts;$60,000;USA
-15;Deep Sea Diver;Marine Operations;Drowning, decompression sickness, equipment failure;$65,000;Australia
-16;High Voltage Technician;Utilities;Electrocution, falls, burns;$75,000;USA
-17;Prison Guard;Law Enforcement;Violence, high stress, exposure to dangerous inmates;$45,000;USA
-18;Paramedic;Emergency Services;Infectious diseases, high stress, exposure to violence;$50,000;Canada
-19;Chemical Plant Worker;Manufacturing;Toxic exposure, explosions, burns;$55,000;Germany
-20;Tree Trimmer;Forestry;Falls, chainsaw injuries, rough terrain;$35,000;USA
+1;Construction Worker;Construction;Falls, heavy machinery, hazardous materials;40000;USA
+2;Miner;Mining;Cave-ins, respiratory diseases, heavy equipment;50000;Australia
+3;Fisherman;Fishing;Drowning, harsh weather, heavy machinery;35000;Norway
+4;Logger;Forestry;Falling trees, chainsaw injuries, rough terrain;45000;Canada
+5;Electrician;Utilities;Electrocution, falls, burns;55000;UK
+6;Pilot;Aviation;High stress, crashes, long hours;100000;USA
+7;Roofer;Construction;Falls, heat exhaustion, heavy lifting;38000;Australia
+8;Truck Driver;Transportation;Traffic accidents, long hours, hazardous cargo;48000;USA
+9;Police Officer;Law Enforcement;Violence, high stress, exposure to dangerous situations;60000;Canada
+10;Firefighter;Emergency Services;Burns, smoke inhalation, structural collapses;55000;UK
+11;Offshore Oil Rig Worker;Oil & Gas;Explosions, fires, heavy machinery;80000;USA
+12;Steelworker;Manufacturing;Falls, burns, heavy machinery;50000;USA
+13;Bomb Disposal Technician;Military;Explosives, high stress, hazardous materials;70000;UK
+14;Stunt Performer;Entertainment;Physical injuries, high-risk stunts;60000;USA
+15;Deep Sea Diver;Marine Operations;Drowning, decompression sickness, equipment failure;65000;Australia
+16;High Voltage Technician;Utilities;Electrocution, falls, burns;75000;USA
+17;Prison Guard;Law Enforcement;Violence, high stress, exposure to dangerous inmates;45000;USA
+18;Paramedic;Emergency Services;Infectious diseases, high stress, exposure to violence;50000;Canada
+19;Chemical Plant Worker;Manufacturing;Toxic exposure, explosions, burns;55000;Germany
+20;Tree Trimmer;Forestry;Falls, chainsaw injuries, rough terrain;35000;USA
